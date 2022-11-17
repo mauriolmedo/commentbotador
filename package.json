@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "cfonts": "^2.10.1",
+    "dropbox": "^10.29.0",
+    "inquirer": "^8.2.4",
+    "jsonminify": "^0.4.2",
+    "node-banner": "^1.4.0",
+    "puppeteer": "^14.1.0",
+    "puppeteer-extra": "^3.2.3",
+    "xlsx": "^0.18.5"
+  }
+}

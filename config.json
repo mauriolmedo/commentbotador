@@ -1,0 +1,12 @@
+{
+  "blacklist": [],
+  "delayEscribir": 200,
+  "crashOnError": false,
+  "minViews": 0,
+  "maxViews": 20,
+  "lastSync": 1652325517018,
+  "headless": false,
+  "dropbox": {
+    "accessToken": "sl.BHZIWT3ta3blwTM1JbG6R8sZ-F1mIpr5klDJ2cDb-ov38j8QGdcAtIke-BtEPywbenZAX1n5fYGlB0DHfba0n5aPO3_XZPB5-RchdBRF3sYLbYJ_qAcpVbvmegE3Z9vxR2nhX8-P"
+  }
+}
